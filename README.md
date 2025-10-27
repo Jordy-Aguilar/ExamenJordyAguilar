@@ -8,10 +8,10 @@ El propósito principal del proyecto es demostrar conocimientos en maquetación 
 ## Estructura del Proyecto
 
 ExamenJordyAguilar/
-├── .vscode/ # Configuraciones del entorno de desarrollo
-├── Sass/ # Archivos fuente de estilos en SCSS
-├── css/ # Archivos compilados en CSS
-├── img/ # Imágenes del sitio
+├── .vscode/ Configuraciones del entorno de desarrollo
+├── Sass/ Archivos fuente de estilos en SCSS
+├── css/ Archivos compilados en CSS
+├── img/ Imágenes del sitio
 └── index.html # Página principal del proyecto
 
 
